@@ -79,6 +79,6 @@ class TestController extends Controller
      */
     public function destroy($id)
     {
-        $d = 1;
+        $d = 2;
     }
 }
